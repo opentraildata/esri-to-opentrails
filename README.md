@@ -20,4 +20,11 @@ ArcToolbox containing tools and python scripts for data transformation to the op
    * Esri To Open - will convert either a shapefile or feature class to GeoJSON [Via Project Open Data](https://github.com/project-open-data/esri2open)
    * Generalize - Simplifies the input features using the Douglas-Peucker simplification algorithm  
    * Import XML Workspace Document - this file will create the skeleton file geodatbase features within a new file geodatabase or an existing file geodatabase or feature dataset  
-   * Spatial Join - Joins attributes from one feature to another based on the spatial relationship.
+   * Spatial Join - Joins attributes from one feature to another based on the spatial relationship.  
+
+###todo
+   * a lot
+   * no really
+   * beef up initial description
+   * add links to Esri docs for toolbox/tool names
+   * QA/QC existing descriptions
